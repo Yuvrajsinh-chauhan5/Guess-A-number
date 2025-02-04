@@ -22,7 +22,6 @@ function easy() {
       else{
          chances--;
          alert(chances+" Chances Are left!")
-         alert("correct number was " + a)
       }
       if(chances == 0){
          alert("Game over!!!!")
